@@ -1,6 +1,6 @@
 # 🌿 Smart-Grow (Portfolio)
 
-**Smart-Grow** is a complete web-based management system developed specifically for precision microgreens farming. Created for **Cultive-se – Vertical Farm**, Smart-Grow provides intuitive tools for managing production, scheduling, task tracking, data analysis, and team coordination.
+**Smart-Grow** is a complete web-based management system developed specifically for precision microgreens farming. Created for **[Cultive-se](https://www.instagram.com/cultivese.br/)**, Smart-Grow provides intuitive tools for managing production, scheduling, task tracking, data analysis, and team coordination.
 
 > 🔒 **Note:**
 > This repository is publicly available for portfolio and demonstration purposes only.
@@ -87,8 +87,4 @@ The source code remains private and proprietary. For code access requests, pleas
 ## 📩 Contact
 
 **Aloísio de Menezes Vilas-Bôas**
-Freelance Developer
-
-* [GitHub Profile](https://github.com/aloisiovilasboas)
-* [Lattes CV](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4250514D4)
 * 📧 [aloisiovilasboas@gmail.com](mailto:aloisiovilasboas@gmail.com)
