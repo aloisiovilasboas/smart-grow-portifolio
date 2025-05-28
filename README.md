@@ -55,15 +55,16 @@ Smart-Grow streamlines the management of microgreens farming from species regist
 
 | Feature                 | Screenshot                                        |
 | ----------------------- | ------------------------------------------------- |
+| **Main Interface**      | ![Main Screen](images/home.png)                   |
 | **Activity Calendar**   | ![Calendar](images/calendario.png)                |
 | **Task Completion**     | ![Task Management](images/calendario2.png)        |
-| **Batch List**          | ![Batch Management](images/lotes.png)             |
-| **Task Dashboard**      | ![Pending Tasks](images/pendencias.png)           |
 | **Seed Specifications** | ![Seed Specifications](images/especificacoes.png) |
 | **Seed Inventory**      | ![Seed Inventory](images/sementes.png)            |
 | **User Administration** | ![User Management](images/admin.png)              |
-| **Main Interface**      | ![Main Screen](images/home.png)                   |
+| **Batch List**          | ![Batch Management](images/lotes.png)             |
 | **New Batch Creation**  | ![New Batch](images/nova_producao.png)            |
+| **Task Dashboard**      | ![Pending Tasks](images/pendencias.png)           |
+
 
 ---
 
