@@ -14,6 +14,15 @@ Smart-Grow streamlines the management of microgreens farming from species regist
 
 ---
 
+## 🛠️ Tech Stack
+
+* **Frontend:** Vue.js, Pinia
+* **Backend:** Firebase (Firestore, Authentication)
+* **Hosting:** Firebase Hosting
+* **Utilities:** CSV data export, Email/password authentication
+
+---
+
 ## 🔧 Features
 
 ### 📦 Species and Seed Management
@@ -39,15 +48,6 @@ Smart-Grow streamlines the management of microgreens farming from species regist
 
   * **Collaborators:** Task execution and updates.
   * **Administrators:** User management, batch creation, seed inventory management, and configuration settings.
-
----
-
-## 🛠️ Tech Stack
-
-* **Frontend:** Vue.js, Pinia
-* **Backend:** Firebase (Firestore, Authentication)
-* **Hosting:** Firebase Hosting
-* **Utilities:** CSV data export, Email/password authentication
 
 ---
 
