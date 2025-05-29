@@ -1,4 +1,4 @@
-# 🌿 Smart-Grow (Portfolio)
+# 🌿 Smart-Grow (Showcase)
 
 **Smart-Grow** is a complete web-based management system developed specifically for precision microgreens farming. Created for **[Cultive-se](https://www.instagram.com/cultivese.br/)**, Smart-Grow provides intuitive tools for managing production, scheduling, task tracking, data analysis, and team coordination.
 
